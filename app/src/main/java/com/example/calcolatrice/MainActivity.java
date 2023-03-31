@@ -28,6 +28,7 @@ public class MainActivity extends AppCompatActivity {
                 tot.setText(""+totale);
 			//riprova
 			//riprovaaa
+			//AAAAAA
 
             }
         });
