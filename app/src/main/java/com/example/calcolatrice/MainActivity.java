@@ -27,6 +27,7 @@ public class MainActivity extends AppCompatActivity {
                 totale=Integer.valueOf(v1.getText().toString()) + Integer.valueOf(v2.getText().toString());
                 tot.setText(""+totale);
 			//riprova
+			//riprovaaa
 
             }
         });
